@@ -4,9 +4,15 @@
 Работает на Flutter 3.7+, поддерживает светлую и тёмную темы.
 
 ## Скриншоты
-| Главный экран | Детали породы | Лайкнутые | Без сети | Восстановлено |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src="screenshots/main.png" width="250"/> | <img src="screenshots/detail.png" width="250"/> | <img src="screenshots/liked.png" width="250"/> | <img src="screenshots/main_screen_without_connection.png" width="250"/> | <img src="screenshots/main_screen_with_connection.png" width="250"/> |
+
+| Главный экран | Детали породы | Лайкнутые |
+|:--:|:--:|:--:|
+| <img src="screenshots/main.png" width="250"/> | <img src="screenshots/detail.png" width="250"/> | <img src="screenshots/liked.png" width="250"/> |
+
+| Без сети | Восстановлено |  |
+|:--:|:--:|:--:|
+| <img src="screenshots/main_screen_without_connection.png" width="250"/> | <img src="screenshots/main_screen_with_connection.png" width="250"/> |  |
+
 
 ## Функциональность
 - **Свайпы** ←/→ или кнопки 👍 / 👎
